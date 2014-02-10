@@ -1,4 +1,8 @@
-ga_ds_project
+GA Data Science Class Project
 =============
 
-GA DS class project
+## Dataset
+Capital bike sharing dataset from the [UCI website](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+
+## Visualizations
+* Number of riders broken down by the month: :riders_by_month.pdf
